@@ -1,0 +1,23 @@
+,token,calibrated_sensor_name,ride_token,sensor_token,translation,rotation,intrinsic
+0,1,novatel,1,,<memory at 0x1280859c0>,<memory at 0x128085780>,<memory at 0x128085cc0>
+1,2,camera_basler_cam_fc,1,,<memory at 0x128085d80>,<memory at 0x128085e40>,<memory at 0x128085f00>
+2,3,camera_basler_cam_rl,1,,<memory at 0x128085840>,<memory at 0x128085c00>,<memory at 0x128085fc0>
+3,4,camera_basler_cam_fl,1,,<memory at 0x128086080>,<memory at 0x128086140>,<memory at 0x128086200>
+4,5,lidar_ouster_left,1,,<memory at 0x1280862c0>,<memory at 0x128086380>,<memory at 0x128086440>
+5,6,lidar_ouster_right,1,,<memory at 0x1280865c0>,<memory at 0x128086680>,<memory at 0x128086740>
+6,7,lidar_innovusion_front,1,,<memory at 0x128086800>,<memory at 0x1280868c0>,<memory at 0x128086980>
+7,8,camera_basler_cam_rr,1,,<memory at 0x128086a40>,<memory at 0x128086b00>,<memory at 0x128086bc0>
+8,9,camera_basler_cam_rc,1,,<memory at 0x128086c80>,<memory at 0x128086d40>,<memory at 0x128086e00>
+9,10,camera_basler_cam_fr,1,,<memory at 0x128086ec0>,<memory at 0x128086f80>,<memory at 0x128087040>
+10,11,lidar_innovusion_rear,1,,<memory at 0x128087100>,<memory at 0x1280871c0>,<memory at 0x128087280>
+11,12,novatel,1,,<memory at 0x128087340>,<memory at 0x128087400>,<memory at 0x1280874c0>
+12,13,camera_basler_cam_fc,1,,<memory at 0x128087580>,<memory at 0x128087640>,<memory at 0x128087700>
+13,14,camera_basler_cam_rl,1,,<memory at 0x1280877c0>,<memory at 0x128087880>,<memory at 0x128087940>
+14,15,camera_basler_cam_fl,1,,<memory at 0x128087a00>,<memory at 0x128087ac0>,<memory at 0x128087b80>
+15,16,lidar_ouster_left,1,,<memory at 0x128087c40>,<memory at 0x128087d00>,<memory at 0x128087dc0>
+16,17,lidar_ouster_right,1,,<memory at 0x128087e80>,<memory at 0x128087f40>,<memory at 0x12c888040>
+17,18,lidar_innovusion_front,1,,<memory at 0x12c888100>,<memory at 0x12c8881c0>,<memory at 0x12c888280>
+18,19,camera_basler_cam_rr,1,,<memory at 0x12c888340>,<memory at 0x12c888400>,<memory at 0x12c8884c0>
+19,20,camera_basler_cam_rc,1,,<memory at 0x12c888580>,<memory at 0x12c888640>,<memory at 0x12c888700>
+20,21,camera_basler_cam_fr,1,,<memory at 0x12c8887c0>,<memory at 0x12c888880>,<memory at 0x12c888940>
+21,22,lidar_innovusion_rear,1,,<memory at 0x12c888a00>,<memory at 0x12c888ac0>,<memory at 0x12c888b80>
